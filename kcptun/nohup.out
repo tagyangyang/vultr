@@ -1,0 +1,23 @@
+2020/10/25 05:14:07 version: 20200701
+2020/10/25 05:14:07 smux version: 1
+2020/10/25 05:14:07 listening on: :29900
+2020/10/25 05:14:07 target: 127.0.0.1:12012
+2020/10/25 05:14:07 encryption: aes
+2020/10/25 05:14:07 nodelay parameters: 1 10 2 1
+2020/10/25 05:14:07 sndwnd: 1024 rcvwnd: 1024
+2020/10/25 05:14:07 compression: false
+2020/10/25 05:14:07 mtu: 1350
+2020/10/25 05:14:07 datashard: 10 parityshard: 3
+2020/10/25 05:14:07 acknodelay: false
+2020/10/25 05:14:07 dscp: 46
+2020/10/25 05:14:07 sockbuf: 16777217
+2020/10/25 05:14:07 smuxbuf: 4194304
+2020/10/25 05:14:07 streambuf: 2097152
+2020/10/25 05:14:07 keepalive: 10
+2020/10/25 05:14:07 snmplog: 
+2020/10/25 05:14:07 snmpperiod: 60
+2020/10/25 05:14:07 pprof: false
+2020/10/25 05:14:07 quiet: false
+2020/10/25 05:14:07 tcp: false
+2020/10/25 05:14:07 initiating key derivation
+2020/10/25 05:14:07 key derivation done

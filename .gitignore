@@ -1,0 +1,5 @@
+.cache
+.pki
+.ssh
+.vscode-server
+.bash_history
